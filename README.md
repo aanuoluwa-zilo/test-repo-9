@@ -1,2 +1,3 @@
 # test-repo-9
-Test repository 9
+
+This is a test repository automatically created by script.
